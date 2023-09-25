@@ -14,7 +14,7 @@ import {
 	useLoaderData
 } from '@remix-run/react';
 import { getUserLanguage } from './utils/language.server';
-import { getContentFromFile } from './lib/read-content.server';
+import { getContentFromFile } from './utils/read-content.server';
 import { Nav, type NavContent } from './components/Nav';
 
 import styles from '~/tailwind.css';
