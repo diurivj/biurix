@@ -2,15 +2,15 @@
 	"en": {
 		"links": [
 			{ "name": "Home", "href": "/" },
-			{ "name": "Articles", "href": "/articles" },
+			{ "name": "Blog", "href": "/blog" },
 			{ "name": "Courses", "href": "/courses" },
 			{ "name": "Contact", "href": "/contact" }
 		]
 	},
 	"es": {
 		"links": [
-			{ "name": "Home", "href": "/" },
-			{ "name": "Artículos", "href": "/articles" },
+			{ "name": "Inicio", "href": "/" },
+			{ "name": "Blog", "href": "/blog" },
 			{ "name": "Cursos", "href": "/courses" },
 			{ "name": "Contacto", "href": "/contact" }
 		]

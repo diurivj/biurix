@@ -1,0 +1,22 @@
+{
+	"en": {
+		"_index": {
+			"title": "Home | Diurivj",
+			"description": "Diurivj"
+		},
+		"not_found": {
+			"title": "404 | Page not found",
+			"description": "Page not found"
+		}
+	},
+	"es": {
+		"_index": {
+			"title": "Inicio | Diurivj",
+			"description": "Diurivj"
+		},
+		"not_found": {
+			"title": "404 | Página no encontrada",
+			"description": "Página no encontrada"
+		}
+	}
+}
