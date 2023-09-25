@@ -7,7 +7,7 @@ type Props = {
 	children: JSX.Element | JSX.Element[];
 };
 
-export function PageWrapper({ as = 'div', className, children }: Props) {
+export function Container({ as = 'div', className, children }: Props) {
 	return React.createElement(
 		as,
 		{
