@@ -1,13 +1,13 @@
 import * as React from 'react';
 import { cn } from '~/lib/utils';
 
-type Props = {
+type ContainerProps = {
 	as?: React.ElementType;
 	className?: string;
-	children: JSX.Element | JSX.Element[];
+	children: React.ReactNode;
 };
 
-export function Container({ as = 'div', className, children }: Props) {
+export function Container({ as = 'div', className, children }: ContainerProps) {
 	return React.createElement(
 		as,
 		{

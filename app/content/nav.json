@@ -1,0 +1,18 @@
+{
+	"en": {
+		"links": [
+			{ "name": "Home", "href": "/" },
+			{ "name": "Articles", "href": "/articles" },
+			{ "name": "Courses", "href": "/courses" },
+			{ "name": "Contact", "href": "/contact" }
+		]
+	},
+	"es": {
+		"links": [
+			{ "name": "Home", "href": "/" },
+			{ "name": "Artículos", "href": "/articles" },
+			{ "name": "Cursos", "href": "/courses" },
+			{ "name": "Contacto", "href": "/contact" }
+		]
+	}
+}
